@@ -1,0 +1,236 @@
+.font{
+	font-family: Arial;
+	font-weight: thin;
+}
+
+.text-Open{
+	font-family:"Open Sans", sans-serif;
+	font-weight: lighter;
+}
+
+
+.navegador{
+	height: 70px;
+	background: black;
+}
+
+a:hover{
+	color: #E61263; 
+}
+
+nav li{
+	position: relative;
+	display: inline-block;
+	bottom: 35px;
+	left: 600px;
+	padding-left: 30px;
+	margin-right: 0px; 
+}
+
+.img-ciudad{
+	width: 730px;
+	height: 400px;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+
+.titulo-gentleman{
+	padding-left: 5%;
+}
+
+.text-gentleman{
+	font-size: 15px;
+}
+
+.clic{
+	width: 100px;
+	height: 30px;
+	background: #B7B7B7;
+	border-style: none;
+	border-radius: 15px;
+	margin-top: 20%;
+}
+
+.line{
+	height: 5px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+
+.proyects{
+	display: inline-block;
+	position: relative;
+	padding-left: 13px;
+}
+
+.latest:hover{
+	color: #888; 
+}
+
+.latest{
+	color: #BDBDBD;
+}
+
+.titulo-proyects{
+	font-size: 28px;
+}
+
+.foto{
+	margin-top: 10%;
+	margin-left: 2%;
+}
+
+.icon{
+	color: #BDBDBD;
+	position: absolute;
+	margin-left: -90px;
+	margin-top: 24.3%;
+}
+
+.clic-2{
+	width: 120px;
+	height: 35px;
+	background: #4A4A4A;
+	border-style: none;
+	border-radius: 18px;
+	margin-top: 8%;
+	margin-bottom: 5%;
+}
+
+.size-tweet{
+	font-size: 120px;
+	color:#4A4A4A;
+}
+
+.text-tweet{
+	color:#4A4A4A;
+	font-size: 25px;
+	padding-left: 5%;
+}
+
+em{
+	color: #E61263; 
+}
+
+.clic-3{
+	width: 70px;
+	height: 25px;
+	background: #4A4A4A;
+	border-style: none;
+	border-radius: 5px;
+	margin-top: 2%;
+	margin-bottom: 5%;
+}
+
+.info{
+	height: 640px;
+	background: #232323;
+	margin-top: 5%;
+}
+
+.fa-estilos{
+	padding-top: 4.5%;
+	border: 1px dashed white;
+	border-radius: 100%;
+	width: 40px;
+	height: 40px;
+	margin-top: 3%;
+}
+
+.fa-1{
+	padding-left: 3.5%;
+	margin-left: 7%;
+}
+
+.fa-2{
+	padding-left: 5%;
+}
+
+.fa-3{
+	padding-left: 4%;
+}
+
+.text-footer{
+	font-size: 25px;
+	padding-left: 5%;
+	text-align: left;
+}
+
+.web{
+	display: inline-block;
+	position: relative;
+}
+
+.linea-foo{
+	margin-top: 4%;
+	border-color:#4A4A4A;
+}
+
+.text-foo{
+	font-size: 12px;
+}
+
+.comillas{
+	font-size: 50px;
+	font-family: Courier;
+	color: white;
+	float: left;
+	margin-top: 2%;
+}
+
+.red{
+	color: #E61263; 
+}
+
+.clic-4{
+	width: 50px;
+	height: 25px;
+	background: #E61263;
+	border-style: none;
+	border-radius: 5px;
+	margin-left: 17%;
+}
+
+.boton{
+	position: absolute;
+	margin-left: 11%;
+	margin-top: 4%;
+}
+
+.text-number{
+	font-size: 21px;
+	color: #E61263; 
+}
+
+.mail{
+	width: 190px;
+	height: 50px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	padding-left: 10px;
+	font-size: 10px;
+	color: white;
+	background:#171717;
+	outline: none;
+	border-radius: 5px;
+	border:0px;
+	box-shadow:
+	0px 2px 1px 0px rgba(0, 0, 0, 0.5) inset,
+	0px 1px 1px 0px #3E3E3E;
+
+}
+
+.text-news {
+	font-size: 10px;
+}
+
+.submit{
+	border: 0;
+  	padding-right: 10px;
+  	background-color: transparent;    
+  	color: white;
+
+}
+
